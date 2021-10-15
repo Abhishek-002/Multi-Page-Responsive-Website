@@ -1,4 +1,4 @@
-# Multi-Pages-Website
+# Multi-Page-Responsive-Website
 Responsive web design means that a website can legibly fit the screen of any mobile device.
 All of the text is readable, all of the images are clear, and everything fits the screen as perfectly as on a laptop or desktop computer.
 From a technical standpoint, responsive web design is based on percentages.
